@@ -1,6 +1,6 @@
 {
   "name": "mongoose-user-management",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "user management of a typical website storing in Mongodb using mongoose library",
   "main": "index.js",
   "scripts": {
